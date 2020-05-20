@@ -1,1 +1,10 @@
 /First_Week/.idea/
+/mybot/.idea/
+/mybot/__pycache__
+/mybot/*.log
+/mybot/settings.py
+/mybot/.gitignore
+.DS_Store
+
+
+
