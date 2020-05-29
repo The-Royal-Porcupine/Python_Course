@@ -5,6 +5,10 @@
 /mybot/settings.py
 /mybot/.gitignore
 .DS_Store
-
+/mybot/env
+/Third_Week/.idea
+/.idea/*
+/Data Analysis/
+/Second_Week/
 
 
